@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:background="@android:color/background_dark"
+    android:layout_marginBottom="8dp"
+    android:elevation="2dp">
+
+    <TextView
+        android:id="@+id/tvAzkarNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1"
+        android:textStyle="bold"
+        android:textColor="@android:color/holo_green_light"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tvAzkarText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sample Azkar text"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"/>
+
+    <TextView
+        android:id="@+id/tvAzkarCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0/1"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="14sp"/>
+
+</LinearLayout> 

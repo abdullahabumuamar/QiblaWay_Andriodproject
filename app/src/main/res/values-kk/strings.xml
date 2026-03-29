@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dhikr">Зікір</string>
+    <string name="qiblah">Қыбла</string>
+    <string name="quran">Құран</string>
+    <string name="home">Басты бет</string>
+    <string name="language">Тіл</string>
+    <string name="wallpaper">Обоины өзгерту</string>
+    <string name="prayername1">Фаджр</string>
+    <string name="prayername2">Күн шығу</string>
+    <string name="prayername3">Зухр</string>
+    <string name="prayername4">Аср</string>
+    <string name="prayername5">Магриб</string>
+    <string name="prayername6">Иша</string>
+    <string name="language1">Ағылшын</string>
+    <string name="language2">Араб</string>
+    <string name="language3">орыс</string>
+    <string name="language4">Қазақ тілі</string>
+    <string name="wallpapers">Обои:</string>
+    <string name="select_language">Тілді таңдаңыз:</string>
+    <string name="set_wallpaper">Обоины орнату</string>
+    <string name="cancel">Бас тарту</string>
+    <string name="prayer_times">Намаз уақытын баптау</string>
+    <string name="hanafi">Ханафи</string>
+    <string name="standard_shafi_i_maliki_hanbali">Стандарт (Шафиғи, Малики, Ханбали)</string>
+    <string name="prayer_times_source">Намаз уақыттарының көзі</string>
+    <string name="madhhab_asr_prayer_calculation">Мазхаб – Екінті намазының есебі</string>
+    <string name="method_name_0">Шиит – он екі имамдық</string>
+    <string name="method_desc_0">Шииттік ислам</string>
+
+    <string name="method_name_1">Ислам ғылымдары университеті</string>
+    <string name="method_desc_1">Карачи, Пәкістан</string>
+
+    <string name="method_name_2">Солтүстік Америка Ислам қоғамы (ISNA)</string>
+    <string name="method_desc_2">АҚШ, Канада</string>
+
+    <string name="method_name_3">Мұсылман әлемінің лигасы (MWL)</string>
+    <string name="method_desc_3">Таяу Шығыс, Африка, Еуропа</string>
+
+    <string name="method_name_4">Умм әл-Кура университеті</string>
+    <string name="method_desc_4">Мекке, Сауд Арабиясы</string>
+
+    <string name="method_name_5">Мысырдың жалпы басқармасы</string>
+    <string name="method_desc_5">Мысыр, Африка</string>
+
+    <string name="method_name_7">Геофизика институты, Тегеран</string>
+    <string name="method_desc_7">Иран</string>
+
+    <string name="method_name_8">Парсы шығанағы аймағы</string>
+    <string name="method_desc_8">БАӘ, Кувейт, Бахрейн</string>
+
+    <string name="method_name_9">Кувейт</string>
+    <string name="method_desc_9">Кувейт</string>
+
+    <string name="method_name_10">Катар</string>
+    <string name="method_desc_10">Катар</string>
+
+    <string name="method_name_11">Сингапур Ислам кеңесі</string>
+    <string name="method_desc_11">Сингапур</string>
+
+    <string name="method_name_12">Франция Ислам ұйымдары одағы</string>
+    <string name="method_desc_12">Франция</string>
+
+    <string name="method_name_13">Түркия Дін істері басқармасы (Дианет)</string>
+    <string name="method_desc_13">Түркия</string>
+
+    <string name="method_name_14">Ресей мұсылмандарының рухани басқармасы</string>
+    <string name="method_desc_14">Ресей</string>
+    <string name="no_internet_message">Интернетке қосылу жоқ. Соңғы қолжетімді деректер көрсетілуде.</string>
+
+    <string name="is_in">қалды</string>
+    <string name="hours_and">сағат және</string>
+    <string name="minute">минут</string>
+    <string name="search">Сүре атауы не нөмірі бойынша ізде</string>
+    <string name="surah_1">Әл-Фатиха</string>
+    <string name="surah_2">Бақара</string>
+    <string name="surah_3">Әли Имран</string>
+    <string name="surah_4">Ниса</string>
+    <string name="surah_5">Мәида</string>
+    <string name="surah_6">Әнғам</string>
+    <string name="surah_7">Ағраф</string>
+    <string name="surah_8">Әнфәл</string>
+    <string name="surah_9">Тәубе</string>
+    <string name="surah_10">Юнус</string>
+    <string name="surah_11">Һұд</string>
+    <string name="surah_12">Юсуф</string>
+    <string name="surah_13">Рағд</string>
+    <string name="surah_14">Ибраһим</string>
+    <string name="surah_15">Һижр</string>
+    <string name="surah_16">Нахл</string>
+    <string name="surah_17">Исра</string>
+    <string name="surah_18">Кәһф</string>
+    <string name="surah_19">Мәриям</string>
+    <string name="surah_20">Таһа</string>
+    <string name="surah_21">Әнбия</string>
+    <string name="surah_22">Хаж</string>
+    <string name="surah_23">Мү’минун</string>
+    <string name="surah_24">Нұр</string>
+    <string name="surah_25">Фурқан</string>
+    <string name="surah_26">Шуғара</string>
+    <string name="surah_27">Нәміл</string>
+    <string name="surah_28">Қасас</string>
+    <string name="surah_29">Анкабут</string>
+    <string name="surah_30">Рум</string>
+    <string name="surah_31">Лұқман</string>
+    <string name="surah_32">Сажда</string>
+    <string name="surah_33">Ахзаб</string>
+    <string name="surah_34">Сәба</string>
+    <string name="surah_35">Фатыр</string>
+    <string name="surah_36">Ясин</string>
+    <string name="surah_37">Саффат</string>
+    <string name="surah_38">Сад</string>
+    <string name="surah_39">Зүмәр</string>
+    <string name="surah_40">Ғафир</string>
+    <string name="surah_41">Фуссилат</string>
+    <string name="surah_42">Шура</string>
+    <string name="surah_43">Зухруф</string>
+    <string name="surah_44">Духан</string>
+    <string name="surah_45">Жасия</string>
+    <string name="surah_46">Ахқаф</string>
+    <string name="surah_47">Мұхаммед</string>
+    <string name="surah_48">Фәтх</string>
+    <string name="surah_49">Хужурат</string>
+    <string name="surah_50">Қаф</string>
+    <string name="surah_51">Зарият</string>
+    <string name="surah_52">Тур</string>
+    <string name="surah_53">Нәжм</string>
+    <string name="surah_54">Қамар</string>
+    <string name="surah_55">Рахман</string>
+    <string name="surah_56">Уақиға</string>
+    <string name="surah_57">Хадид</string>
+    <string name="surah_58">Мүжәдәлә</string>
+    <string name="surah_59">Хашр</string>
+    <string name="surah_60">Мүмтәһина</string>
+    <string name="surah_61">Сафф</string>
+    <string name="surah_62">Жұма</string>
+    <string name="surah_63">Мүнафикун</string>
+    <string name="surah_64">Тәғабун</string>
+    <string name="surah_65">Талақ</string>
+    <string name="surah_66">Тахрим</string>
+    <string name="surah_67">Мүлк</string>
+    <string name="surah_68">Қалам</string>
+    <string name="surah_69">Хаққа</string>
+    <string name="surah_70">Мағариж</string>
+    <string name="surah_71">Нұх</string>
+    <string name="surah_72">Жын</string>
+    <string name="surah_73">Мүзәммил</string>
+    <string name="surah_74">Мүддәссир</string>
+    <string name="surah_75">Қияма</string>
+    <string name="surah_76">Инсан</string>
+    <string name="surah_77">Мурсалат</string>
+    <string name="surah_78">Нәба</string>
+    <string name="surah_79">Нәзиат</string>
+    <string name="surah_80">Абаса</string>
+    <string name="surah_81">Такуир</string>
+    <string name="surah_82">Инфитар</string>
+    <string name="surah_83">Мутаффифин</string>
+    <string name="surah_84">Иншиқақ</string>
+    <string name="surah_85">Буруж</string>
+    <string name="surah_86">Тариқ</string>
+    <string name="surah_87">Ағла</string>
+    <string name="surah_88">Ғашия</string>
+    <string name="surah_89">Фәжр</string>
+    <string name="surah_90">Бәләд</string>
+    <string name="surah_91">Шамс</string>
+    <string name="surah_92">Ләйл</string>
+    <string name="surah_93">Духа</string>
+    <string name="surah_94">Шарх</string>
+    <string name="surah_95">Тин</string>
+    <string name="surah_96">Алақ</string>
+    <string name="surah_97">Қадр</string>
+    <string name="surah_98">Бәййина</string>
+    <string name="surah_99">Зілзала</string>
+    <string name="surah_100">Адиат</string>
+    <string name="surah_101">Қариға</string>
+    <string name="surah_102">Тәкәсур</string>
+    <string name="surah_103">Аср</string>
+    <string name="surah_104">Һумәза</string>
+    <string name="surah_105">Фил</string>
+    <string name="surah_106">Құрайыш</string>
+    <string name="surah_107">Мағун</string>
+    <string name="surah_108">Кәусар</string>
+    <string name="surah_109">Кафирун</string>
+    <string name="surah_110">Наср</string>
+    <string name="surah_111">Мәсәд</string>
+    <string name="surah_112">Ыхлас</string>
+    <string name="surah_113">Фәлақ</string>
+    <string name="surah_114">Нас</string>
+    <string name="surah_title">Сүра %1$s</string>
+
+</resources>

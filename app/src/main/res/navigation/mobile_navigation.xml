@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.qiblaway2.fragments.Home"
+        android:label="Home"
+
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/navigation_Quran"
+        android:name="com.example.qiblaway2.fragments.Quran"
+        android:label="Quran"
+        tools:layout="@layout/fragment_quran" />
+    <fragment
+        android:id="@+id/navigation_Dhikr"
+        android:name="com.example.qiblaway2.fragments.Dua"
+        android:label="Dua"
+        tools:layout="@layout/fragment_dua" />
+    <fragment
+        android:id="@+id/navigation_Qiblah"
+        android:name="com.example.qiblaway2.fragments.Qibla"
+        android:label="Qibla"
+        tools:layout="@layout/fragment_qibla" />
+    <fragment
+        android:id="@+id/LanguageFragment"
+        android:name="com.example.qiblaway2.fragments.Language"
+        android:label="fragment_language"
+        tools:layout="@layout/fragment_language" />
+    <fragment
+        android:id="@+id/WallpaperFragment"
+        android:name="com.example.qiblaway2.fragments.Wallpaper"
+        android:label="fragment_wallpaper"
+        tools:layout="@layout/fragment_wallpaper" />
+    <fragment
+        android:id="@+id/surahDetailsFragment2"
+        android:name="com.example.qiblaway2.fragments.SurahDetailsFragment"
+        android:label="SurahDetailsFragment"
+        tools:layout="@layout/fragment_surah_details"
+        />
+</navigation>

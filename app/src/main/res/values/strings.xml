@@ -1,0 +1,210 @@
+<resources>
+    <string name="app_name">QiblaWay</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- THIS IS THE MENU OF BOTTOM NAVIGATION VIEW -->
+    <string name="dhikr">Dhikr</string>
+    <string name="qiblah">Qiblah</string>
+    <string name="quran">Quran</string>
+    <string name="home">Home</string>
+    <!-- THIS IS THE MENU OF SETTINGS LANG AND WALLPAPER -->
+    <string name="language">Language</string>
+    <string name="wallpaper">Wallpaper</string>
+    <!-- THIS IS prayer card view -->
+    <string name="prayername1">Fajar</string>
+    <string name="prayername2">Shuruq</string>
+    <string name="prayername3">Dhuhr</string>
+    <string name="prayername4">Asr</string>
+    <string name="prayername5">Maghrib</string>
+    <string name="prayername6">Isha</string>
+    <!-- THIS IS prayer card view -->
+    <string name="language1">English(Uk)</string>
+    <string name="language2">Arabic</string>
+    <string name="language3">Russian</string>
+    <string name="language4">Kazakh</string>
+    <string name="wallpapers">wallpapers:</string>
+    <string name="select_language">select language:</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    <string name="cancel">Cancel</string>
+    <string name="prayer_times">Prayer Time Settings</string>
+    <string name="hanafi">Hanafi</string>
+    <string name="standard_shafi_i_maliki_hanbali">Standard (Shafi\'i, Maliki, Hanbali)</string>
+    <string name="prayer_times_source">Prayer times source</string>
+    <string name="madhhab_asr_prayer_calculation">Madhhab - Asr Prayer Calculation</string>
+
+
+    <string name="method_name_0">Shia Ithna-Ashari</string>
+    <string name="method_desc_0">Shia Islam</string>
+
+    <string name="method_name_1">University of Islamic Sciences</string>
+    <string name="method_desc_1">Karachi, Pakistan</string>
+
+    <string name="method_name_2">Islamic Society of North America (ISNA)</string>
+    <string name="method_desc_2">USA,Canada</string>
+
+    <string name="method_name_3">Muslim World League (MWL)</string>
+    <string name="method_desc_3">Middle East, Africa,Europe</string>
+
+    <string name="method_name_4">Umm al-Qura University</string>
+    <string name="method_desc_4">Makkah, Saudi Arabia</string>
+
+    <string name="method_name_5">Egyptian General Authority</string>
+    <string name="method_desc_5">Egypt,Africa</string>
+
+    <string name="method_name_7">Institute of Geophysics, Tehran</string>
+    <string name="method_desc_7">Iran</string>
+
+    <string name="method_name_8">Gulf Region</string>
+    <string name="method_desc_8">UAE, Kuwait, Bahrain</string>
+
+    <string name="method_name_9">Kuwait</string>
+    <string name="method_desc_9">Kuwait</string>
+
+    <string name="method_name_10">Qatar</string>
+    <string name="method_desc_10">Qatar</string>
+
+    <string name="method_name_11">Majlis Ugama Islam Singapore</string>
+    <string name="method_desc_11">Singapore</string>
+
+    <string name="method_name_12">Union Organization Islamic France</string>
+    <string name="method_desc_12">France</string>
+
+    <string name="method_name_13">Diyanet İşleri Başkanlığı (Turkey)</string>
+    <string name="method_desc_13">Turkey</string>
+
+    <string name="method_name_14">Spiritual Administration of Muslims of Russia</string>
+    <string name="method_desc_14">Russia</string>
+    <string name="no_internet_message">No internet connection. Showing last available data.</string>
+    <string name="is_in">is in </string>
+    <string name="hours_and"> hour(s) and</string>
+    <string name="minute"> minute(s)</string>
+    <string name="search">Search for the Surah by name or number</string>
+    <string name="surah_1">Al-Fatiha</string>
+    <string name="surah_2">Al-Baqarah</string>
+    <string name="surah_3">Aal-E-Imran</string>
+    <string name="surah_4">An-Nisa</string>
+    <string name="surah_5">Al-Ma’idah</string>
+    <string name="surah_6">Al-An’am</string>
+    <string name="surah_7">Al-A’raf</string>
+    <string name="surah_8">Al-Anfal</string>
+    <string name="surah_9">At-Tawbah</string>
+    <string name="surah_10">Yunus</string>
+    <string name="surah_11">Hud</string>
+    <string name="surah_12">Yusuf</string>
+    <string name="surah_13">Ar-Ra’d</string>
+    <string name="surah_14">Ibrahim</string>
+    <string name="surah_15">Al-Hijr</string>
+    <string name="surah_16">An-Nahl</string>
+    <string name="surah_17">Al-Isra</string>
+    <string name="surah_18">Al-Kahf</string>
+    <string name="surah_19">Maryam</string>
+    <string name="surah_20">Ta-Ha</string>
+    <string name="surah_21">Al-Anbiya</string>
+    <string name="surah_22">Al-Hajj</string>
+    <string name="surah_23">Al-Mu’minun</string>
+    <string name="surah_24">An-Nur</string>
+    <string name="surah_25">Al-Furqan</string>
+    <string name="surah_26">Ash-Shu’ara</string>
+    <string name="surah_27">An-Naml</string>
+    <string name="surah_28">Al-Qasas</string>
+    <string name="surah_29">Al-Ankabut</string>
+    <string name="surah_30">Ar-Rum</string>
+    <string name="surah_31">Luqman</string>
+    <string name="surah_32">As-Sajda</string>
+    <string name="surah_33">Al-Ahzab</string>
+    <string name="surah_34">Saba</string>
+    <string name="surah_35">Fatir</string>
+    <string name="surah_36">Ya-Sin</string>
+    <string name="surah_37">As-Saffat</string>
+    <string name="surah_38">Sad</string>
+    <string name="surah_39">Az-Zumar</string>
+    <string name="surah_40">Ghafir</string>
+    <string name="surah_41">Fussilat</string>
+    <string name="surah_42">Ash-Shura</string>
+    <string name="surah_43">Az-Zukhruf</string>
+    <string name="surah_44">Ad-Dukhan</string>
+    <string name="surah_45">Al-Jathiyah</string>
+    <string name="surah_46">Al-Ahqaf</string>
+    <string name="surah_47">Muhammad</string>
+    <string name="surah_48">Al-Fath</string>
+    <string name="surah_49">Al-Hujurat</string>
+    <string name="surah_50">Qaf</string>
+    <string name="surah_51">Adh-Dhariyat</string>
+    <string name="surah_52">At-Tur</string>
+    <string name="surah_53">An-Najm</string>
+    <string name="surah_54">Al-Qamar</string>
+    <string name="surah_55">Ar-Rahman</string>
+    <string name="surah_56">Al-Waqi’ah</string>
+    <string name="surah_57">Al-Hadid</string>
+    <string name="surah_58">Al-Mujadila</string>
+    <string name="surah_59">Al-Hashr</string>
+    <string name="surah_60">Al-Mumtahina</string>
+    <string name="surah_61">As-Saff</string>
+    <string name="surah_62">Al-Jumu’ah</string>
+    <string name="surah_63">Al-Munafiqun</string>
+    <string name="surah_64">At-Taghabun</string>
+    <string name="surah_65">At-Talaq</string>
+    <string name="surah_66">At-Tahrim</string>
+    <string name="surah_67">Al-Mulk</string>
+    <string name="surah_68">Al-Qalam</string>
+    <string name="surah_69">Al-Haqqah</string>
+    <string name="surah_70">Al-Ma’arij</string>
+    <string name="surah_71">Nuh</string>
+    <string name="surah_72">Al-Jinn</string>
+    <string name="surah_73">Al-Muzzammil</string>
+    <string name="surah_74">Al-Muddathir</string>
+    <string name="surah_75">Al-Qiyamah</string>
+    <string name="surah_76">Al-Insan</string>
+    <string name="surah_77">Al-Mursalat</string>
+    <string name="surah_78">An-Naba</string>
+    <string name="surah_79">An-Naziat</string>
+    <string name="surah_80">Abasa</string>
+    <string name="surah_81">At-Takwir</string>
+    <string name="surah_82">Al-Infitar</string>
+    <string name="surah_83">Al-Mutaffifin</string>
+    <string name="surah_84">Al-Inshiqaq</string>
+    <string name="surah_85">Al-Buruj</string>
+    <string name="surah_86">At-Tariq</string>
+    <string name="surah_87">Al-A’la</string>
+    <string name="surah_88">Al-Ghashiyah</string>
+    <string name="surah_89">Al-Fajr</string>
+    <string name="surah_90">Al-Balad</string>
+    <string name="surah_91">Ash-Shams</string>
+    <string name="surah_92">Al-Lail</string>
+    <string name="surah_93">Ad-Duhaa</string>
+    <string name="surah_94">Ash-Sharh</string>
+    <string name="surah_95">At-Tin</string>
+    <string name="surah_96">Al-Alaq</string>
+    <string name="surah_97">Al-Qadr</string>
+    <string name="surah_98">Al-Bayyinah</string>
+    <string name="surah_99">Az-Zalzalah</string>
+    <string name="surah_100">Al-Adiyat</string>
+    <string name="surah_101">Al-Qari’ah</string>
+    <string name="surah_102">At-Takathur</string>
+    <string name="surah_103">Al-Asr</string>
+    <string name="surah_104">Al-Humazah</string>
+    <string name="surah_105">Al-Fil</string>
+    <string name="surah_106">Quraish</string>
+    <string name="surah_107">Al-Ma’un</string>
+    <string name="surah_108">Al-Kawthar</string>
+    <string name="surah_109">Al-Kafirun</string>
+    <string name="surah_110">An-Nasr</string>
+    <string name="surah_111">Al-Masad</string>
+    <string name="surah_112">Al-Ikhlas</string>
+    <string name="surah_113">Al-Falaq</string>
+    <string name="surah_114">An-Nas</string>
+    <string name="surah_title">Surah %1$s</string>
+
+    <!-- Qibla Compass Strings -->
+    <string name="location_loading">Getting location…</string>
+    <string name="qibla_direction_loading">Calculating Qibla direction…</string>
+    <string name="qibla_instructions">Hold your device flat and rotate slowly. The red arrow points to Mecca (Qibla).</string>
+    <string name="compass_description">Compass</string>
+    <string name="qibla_indicator_description">Qibla direction indicator</string>
+    <string name="qibla_direction">Qibla Direction: %1$s°</string>
+    <string name="location_permission_required">Location permission is required to find Qibla direction</string>
+    <string name="location_error">Unable to get location. Please check your GPS settings.</string>
+    <string name="compass_not_available">Compass sensor not available on this device</string>
+
+    <!--  -->
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardUseCompatPadding="true"
+    app:cardCornerRadius="20dp"
+    android:id="@+id/item"
+
+    >
+
+
+
+    <ImageView
+        android:id="@+id/HomeWallPaper"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/jerusalem1"
+        android:clickable="true"
+        android:focusable="true"
+
+        />
+
+    <ImageView
+        android:id="@+id/imgtrue"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="5dp"
+        app:srcCompat="@drawable/resource_true"
+        android:visibility="invisible"
+
+        />
+
+</androidx.cardview.widget.CardView>

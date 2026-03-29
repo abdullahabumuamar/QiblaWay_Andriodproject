@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/home"
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home"
+
+        />
+    <item android:title="@string/quran"
+        android:id="@+id/navigation_Quran"
+        android:icon="@drawable/read_book_icon"
+        />
+    <item android:title="@string/dhikr"
+        android:id="@+id/navigation_Dhikr"
+        android:icon="@drawable/dua_hand"/>
+    <item android:title="@string/qiblah"
+        android:id="@+id/navigation_Qiblah"
+        android:icon="@drawable/compass"/>
+</menu>

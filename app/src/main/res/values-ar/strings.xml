@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- THIS IS THE MENU OF BOTTOM NAVIGATION VIEW -->
+    <string name="dhikr">أذكار</string>
+    <string name="qiblah">القبلة</string>
+    <string name="quran">القران</string>
+    <string name="home">الرئيسية</string>
+    <!-- THIS IS THE MENU OF SETTINGS LANG AND WALLPAPER -->
+    <string name="language">اللغة</string>
+    <string name="wallpaper">تغير الخلفية</string>
+    <!-- THIS IS prayer card view -->
+    <string name="prayername1">الفجر</string>
+    <string name="prayername2">الشروق</string>
+    <string name="prayername3">الظهر</string>
+    <string name="prayername4">العصر</string>
+    <string name="prayername5">المغرب</string>
+    <string name="prayername6">العشاء</string>
+
+    <string name="language1">الإنجليزية</string>
+    <string name="language2">العربية</string>
+    <string name="language3">الروسية</string>
+    <string name="language4">الكازاخية</string>
+
+    <string name="wallpapers">الخلفيات:</string>
+    <string name="select_language">أختر اللغة:</string>
+    <string name="set_wallpaper">تعيين الخلفية</string>
+    <string name="cancel">إلغاء</string>
+    <string name="prayer_times">إعدادات أوقات الصلاة</string>
+    <string name="hanafi">حنفي</string>
+    <string name="standard_shafi_i_maliki_hanbali">قياسي (شافعي، مالكي، حنبلي)</string>
+    <string name="prayer_times_source">مصدر مواقيت الصلاة</string>
+    <string name="madhhab_asr_prayer_calculation">المذهب - حساب وقت صلاة العصر</string>
+    <string name="method_name_0">الشيعة الاثنا عشرية</string>
+    <string name="method_desc_0">الشيعة</string>
+
+    <string name="method_name_1">جامعة العلوم الإسلامية</string>
+    <string name="method_desc_1">كراتشي، باكستان</string>
+
+    <string name="method_name_2">الجمعية الإسلامية لأمريكا الشمالية (ISNA)</string>
+    <string name="method_desc_2">الولايات المتحدة، كندا</string>
+
+    <string name="method_name_3">رابطة العالم الإسلامي (MWL)</string>
+    <string name="method_desc_3">الشرق الأوسط، أفريقيا، أوروبا</string>
+
+    <string name="method_name_4">جامعة أم القرى</string>
+    <string name="method_desc_4">مكة، المملكة العربية السعودية</string>
+
+    <string name="method_name_5">الهيئة العامة المصرية</string>
+    <string name="method_desc_5">مصر، أفريقيا</string>
+
+    <string name="method_name_7">معهد الجيوفيزياء، طهران</string>
+    <string name="method_desc_7">إيران</string>
+
+    <string name="method_name_8">منطقة الخليج</string>
+    <string name="method_desc_8">الإمارات، الكويت، البحرين</string>
+
+    <string name="method_name_9">الكويت</string>
+    <string name="method_desc_9">الكويت</string>
+
+    <string name="method_name_10">قطر</string>
+    <string name="method_desc_10">قطر</string>
+
+    <string name="method_name_11">مجلس الشؤون الإسلامية في سنغافورة</string>
+    <string name="method_desc_11">سنغافورة</string>
+
+    <string name="method_name_12">اتحاد المنظمات الإسلامية في فرنسا</string>
+    <string name="method_desc_12">فرنسا</string>
+
+    <string name="method_name_13">رئاسة الشؤون الدينية (تركيا)</string>
+    <string name="method_desc_13">تركيا</string>
+
+    <string name="method_name_14">الإدارة الدينية لمسلمي روسيا</string>
+    <string name="method_desc_14">روسيا</string>
+    <string name="no_internet_message">لا يوجد اتصال بالإنترنت. يتم عرض آخر البيانات المتوفرة.</string>
+    <string name="is_in">بعد</string>
+    <string name="hours_and">ساعة و</string>
+    <string name="minute">دقيقة</string>
+    <string name="search">ابحث عن السورة بالاسم أو الرقم</string>
+
+    <string name="surah_1">الفاتحة</string>
+    <string name="surah_2">البقرة</string>
+    <string name="surah_3">آل عمران</string>
+    <string name="surah_4">النساء</string>
+    <string name="surah_5">المائدة</string>
+    <string name="surah_6">الأنعام</string>
+    <string name="surah_7">الأعراف</string>
+    <string name="surah_8">الأنفال</string>
+    <string name="surah_9">التوبة</string>
+    <string name="surah_10">يونس</string>
+    <string name="surah_11">هود</string>
+    <string name="surah_12">يوسف</string>
+    <string name="surah_13">الرعد</string>
+    <string name="surah_14">إبراهيم</string>
+    <string name="surah_15">الحجر</string>
+    <string name="surah_16">النحل</string>
+    <string name="surah_17">الإسراء</string>
+    <string name="surah_18">الكهف</string>
+    <string name="surah_19">مريم</string>
+    <string name="surah_20">طه</string>
+    <string name="surah_21">الأنبياء</string>
+    <string name="surah_22">الحج</string>
+    <string name="surah_23">المؤمنون</string>
+    <string name="surah_24">النور</string>
+    <string name="surah_25">الفرقان</string>
+    <string name="surah_26">الشعراء</string>
+    <string name="surah_27">النمل</string>
+    <string name="surah_28">القصص</string>
+    <string name="surah_29">العنكبوت</string>
+    <string name="surah_30">الروم</string>
+    <string name="surah_31">لقمان</string>
+    <string name="surah_32">السجدة</string>
+    <string name="surah_33">الأحزاب</string>
+    <string name="surah_34">سبأ</string>
+    <string name="surah_35">فاطر</string>
+    <string name="surah_36">يس</string>
+    <string name="surah_37">الصافات</string>
+    <string name="surah_38">ص</string>
+    <string name="surah_39">الزمر</string>
+    <string name="surah_40">غافر</string>
+    <string name="surah_41">فصلت</string>
+    <string name="surah_42">الشورى</string>
+    <string name="surah_43">الزخرف</string>
+    <string name="surah_44">الدخان</string>
+    <string name="surah_45">الجاثية</string>
+    <string name="surah_46">الأحقاف</string>
+    <string name="surah_47">محمد</string>
+    <string name="surah_48">الفتح</string>
+    <string name="surah_49">الحجرات</string>
+    <string name="surah_50">ق</string>
+    <string name="surah_51">الذاريات</string>
+    <string name="surah_52">الطور</string>
+    <string name="surah_53">النجم</string>
+    <string name="surah_54">القمر</string>
+    <string name="surah_55">الرحمن</string>
+    <string name="surah_56">الواقعة</string>
+    <string name="surah_57">الحديد</string>
+    <string name="surah_58">المجادلة</string>
+    <string name="surah_59">الحشر</string>
+    <string name="surah_60">الممتحنة</string>
+    <string name="surah_61">الصف</string>
+    <string name="surah_62">الجمعة</string>
+    <string name="surah_63">المنافقون</string>
+    <string name="surah_64">التغابن</string>
+    <string name="surah_65">الطلاق</string>
+    <string name="surah_66">التحريم</string>
+    <string name="surah_67">الملك</string>
+    <string name="surah_68">القلم</string>
+    <string name="surah_69">الحاقة</string>
+    <string name="surah_70">المعارج</string>
+    <string name="surah_71">نوح</string>
+    <string name="surah_72">الجن</string>
+    <string name="surah_73">المزمل</string>
+    <string name="surah_74">المدثر</string>
+    <string name="surah_75">القيامة</string>
+    <string name="surah_76">الإنسان</string>
+    <string name="surah_77">المرسلات</string>
+    <string name="surah_78">النبأ</string>
+    <string name="surah_79">النازعات</string>
+    <string name="surah_80">عبس</string>
+    <string name="surah_81">التكوير</string>
+    <string name="surah_82">الانفطار</string>
+    <string name="surah_83">المطففين</string>
+    <string name="surah_84">الانشقاق</string>
+    <string name="surah_85">البروج</string>
+    <string name="surah_86">الطارق</string>
+    <string name="surah_87">الأعلى</string>
+    <string name="surah_88">الغاشية</string>
+    <string name="surah_89">الفجر</string>
+    <string name="surah_90">البلد</string>
+    <string name="surah_91">الشمس</string>
+    <string name="surah_92">الليل</string>
+    <string name="surah_93">الضحى</string>
+    <string name="surah_94">الشرح</string>
+    <string name="surah_95">التين</string>
+    <string name="surah_96">العلق</string>
+    <string name="surah_97">القدر</string>
+    <string name="surah_98">البينة</string>
+    <string name="surah_99">الزلزلة</string>
+    <string name="surah_100">العاديات</string>
+    <string name="surah_101">القارعة</string>
+    <string name="surah_102">التكاثر</string>
+    <string name="surah_103">العصر</string>
+    <string name="surah_104">الهمزة</string>
+    <string name="surah_105">الفيل</string>
+    <string name="surah_106">قريش</string>
+    <string name="surah_107">الماعون</string>
+    <string name="surah_108">الكوثر</string>
+    <string name="surah_109">الكافرون</string>
+    <string name="surah_110">النصر</string>
+    <string name="surah_111">المسد</string>
+    <string name="surah_112">الإخلاص</string>
+    <string name="surah_113">الفلق</string>
+    <string name="surah_114">الناس</string>
+
+    <string name="surah_title">سورة %1$s</string>
+
+    <!--  -->
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    >
+
+
+    <ImageView
+        android:id="@+id/imgAlert"
+        android:layout_width="250dp"
+        android:layout_height="400dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/jerusalem1" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnSetAlert"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/set_wallpaper"
+        android:textAllCaps="false"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/imgAlert"
+        app:layout_constraintTop_toBottomOf="@+id/imgAlert" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnCancelAlert"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="10dp"
+        android:text="@string/cancel"
+        android:textAllCaps="false"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/btnSetAlert"
+        app:layout_constraintStart_toStartOf="@+id/btnSetAlert"
+        app:layout_constraintTop_toBottomOf="@+id/btnSetAlert" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+
